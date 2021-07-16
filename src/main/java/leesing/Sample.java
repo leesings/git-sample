@@ -13,4 +13,6 @@ public class Sample {
     private String b;
 
     private String c;
+
+    private String d;
 }
