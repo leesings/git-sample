@@ -15,5 +15,6 @@ public class Demo {
 
     private String addr;
 
+
     private String city;
 }
