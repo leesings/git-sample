@@ -15,4 +15,6 @@ public class Sample {
     private String c;
 
     private String d;
+
+    private String e;
 }
