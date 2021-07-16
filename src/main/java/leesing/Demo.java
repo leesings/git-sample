@@ -17,4 +17,6 @@ public class Demo {
 
 
     private String city;
+
+
 }
